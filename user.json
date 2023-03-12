@@ -1,0 +1,704 @@
+  
+    [{
+        "nombre": "ACELGAS KG",
+        "codigo": "1A",
+        "imgen1":"img/acelgas.png"
+    },
+    {
+        "nombre": "AGRAS BANDEJA",
+        "codigo": "74A",
+        "imgen1":"img/agraz-bandeja.jpg"
+    },
+    {
+        "nombre":"AGUACATE HASS KG",
+        "codigo": "18A",
+        "imgen1":"img/aguacate_hass.jpg"
+    },
+    {
+        "nombre": "AGUACATE KG",
+        "codigo": "4A",
+        "imgen1":"img/aguacate1.jpeg"
+
+    },
+    {
+        "nombre": "AHUYAMA CALABAZA KG",
+        "codigo": "6A",
+        "imgen1":""
+    },
+    {
+        "nombre": "AJO INTERNACIONAC KG",
+        "codigo": "86A",
+        "imgen1":"img/ajo.jpg"
+    },
+    {
+        "nombre": "APIO EN RAMA KG",
+        "codigo": "17A",
+        "imgen1":"img/apio-rama.jpg"
+    },
+    {
+        "nombre": "ARANDANO BANDEJA",
+        "codigo": "385A",
+        "imgen1":""
+    },
+    {
+        "nombre": "AROMATICAS",
+        "codigo": "2A",
+        "imgen1":""
+    },
+    {
+        "nombre": "ARRACACHA KG",
+        "codigo": "16A",
+        "imgen1":"img/arracacha.jpg"
+    },
+    {
+        "nombre": "ARVEJA CONCHA KG",
+        "codigo": "20A",
+        "imgen1":"img/arbeja-concha.jpg"
+    },
+    {
+        "nombre": "ARVEJA DESGRANADA KG",
+        "codigo": "19A",
+        "imgen1":"img/arbeja_desgranada.jpg"
+    },
+    {
+        "nombre": "BADEA KG",
+        "codigo": "21A",
+        "imgen1":"img/badea.jpg"
+    },
+    {
+        "nombre": "BANANO KG",
+        "codigo": "23A",
+        "imgen1":"img/banano.jpg"
+    },
+    {
+        "nombre": "BEB DE MARACUYA CON MENTA * 420MLT",
+        "codigo": "692A",
+        "imgen1":""
+    },
+    {
+        "nombre": "BEB FLOR JAMAICA CON JENG 420 MLT",
+        "codigo": "684A",
+        "imgen1":""
+    },
+    {
+        "nombre": "BEB MORINGA CON JENGIBRE 420 MLT",
+        "codigo": "697A",
+        "imgen1":""
+    },
+    {
+        "nombre": "BEBIDA DE MORINGA JEMGIBRE * 500 MLT",
+        "codigo": "694A",
+        "imgen1":""
+    },
+    {
+        "nombre": "EBIDA DE TAMARINDO *420 MLT",
+        "codigo": "691A",
+        "imgen1":""
+    },
+    {
+        "nombre": "BERENJENA BLANCA KG",
+        "codigo": "42A",
+        "imgen1":"img/berenjenas-blancas.jpg"
+    },
+    {
+        "nombre": "BERENJENA MORADA KG",
+        "codigo": "43A",
+        "imgen1":"img/berenjena1.jpg"
+    },
+    {
+        "nombre": "BOROJO",
+        "codigo": "47A",
+        "imgen1":"img/borojo1.jpg"
+    },
+    {
+        "nombre": "BROCOLI",
+        "codigo": "50A",
+        "imgen1":"img/brocoli.jpg"
+    },
+    {
+        "nombre": "CALABAZIN AMARILLO KG",
+        "codigo": "54A",
+        "imgen1":"img/calabazin_a.jpg"
+    },
+    {
+        "nombre": "CALABAZIN VERDE KG",
+        "codigo": "56A",
+        "imgen1":"img/calabacin_verde.jpg"
+    },
+    {
+        "nombre": "CARBON",
+        "codigo": "46A",
+        "imgen1":"img/carbon.jpg"
+    },
+    {
+        "nombre": "CEBOLLA BCA KG",
+        "codigo": "59A",
+        "imgen1":"img/cebolla-cabezona.jpg"
+    },
+    {
+        "nombre": "CEBOLLLA BLANCA PELADA KG",
+        "codigo": "380A",
+        "imgen1":""
+    },
+    {
+        "nombre": "CEBOLLA PUERRO KG",
+        "codigo": "65A",
+        "imgen1":"img/cebolla_puerro.jpg"
+    },
+    {
+        "nombre": "CEBOLLA RAMA KG",
+        "codigo": "66A",
+        "imgen1":"img/cebolla-larga.jpg"
+    },
+    {
+        "nombre": "CEBOLLA ROJA KG",
+        "codigo": "60A",
+        "imgen1":"img/cebolla-roja.jpg"
+    },
+    {
+        "nombre": "CEREZA BANDEJA",
+        "codigo": "67A",
+        "imgen1":""
+    },
+    {
+        "nombre": "CILANTRO KG",
+        "codigo": "78A",
+        "imgen1":"img/cilantro.jpg"
+    },
+    {
+        "nombre": "CIRUELA ROJA BANDE",
+        "codigo": "29A",
+        "imgen1":""
+    },
+    {
+        "nombre": "CIRUELA USA KG",
+        "codigo": "84A",
+        "imgen1":""
+    },
+    {
+        "nombre": "COCO KG",
+        "codigo": "85A",
+        "imgen1":""
+    },
+    {
+        "nombre": "COLIFLOR COMUN KG",
+        "codigo": "89A",
+        "imgen1":"img/coliflor.jpg"
+    },
+    {
+        "nombre": "CURCUMA",
+        "codigo": "696A",
+        "imgen1":""
+    },
+    {
+        "nombre": "CHONTADURO",
+        "codigo": "76A",
+        "imgen1":""
+    },
+    {
+        "nombre": "CURUBA CONGELADA",
+        "codigo": "671A",
+        "imgen1":""
+    },
+    {
+        "nombre": "CURUBA KG",
+        "codigo": "93A",
+        "imgen1":""
+    },
+    {
+        "nombre": "DURAZNO COMUN KG",
+        "codigo": "97A",
+        "imgen1":"img/durazno.jpg"
+    },
+    {
+        "nombre": "DURAZNO IMPORTADO",
+        "codigo": "96A",
+        "imgen1":""
+    },
+    {
+        "nombre": "ESPARRAGOS KG",
+        "codigo": "321A",
+        "imgen1":"img/esparragos.jpg"
+    },
+    {
+        "nombre": "ESPIGA DE TRIGO",
+        "codigo": "383A",
+        "imgen1":""
+    },
+    {
+        "nombre": "ESPINACAS KG",
+        "codigo": "101A",
+        "imgen1":"img/espinacas.jpg"
+    },
+    {
+        "nombre": "FEIJOA BANDEJA",
+        "codigo": "648A",
+        "imgen1":"img/feijoa1.png"
+    },
+    {
+        "nombre": "FRESA CONGELADA",
+        "codigo": "231A",
+        "imgen1":""
+    },
+    {
+        "nombre": "FRESA KG",
+        "codigo": "103A",
+        "imgen1":"img/fresa.jpeg"
+    },
+    {
+        "nombre": "FRIJOL DESGRANADO KG",
+        "codigo": "104A",
+        "imgen1":""
+    },
+    {
+        "nombre": "FRIJOL EN CONCHA KG",
+        "codigo": "105A",
+        "imgen1":""
+    },
+    {
+        "nombre": "GRANADILLA KG",
+        "codigo": "110A",
+        "imgen1":""
+    },
+    {
+        "nombre": "GUANABADA CONGELADA",
+        "codigo": "234A",
+        "imgen1":""
+    },
+    {
+        "nombre": "GUANABANA KG",
+        "codigo": "116A",
+        "imgen1":""
+    },
+    {
+        "nombre": "GUAYABA CONGELDA",
+        "codigo": "294A",
+        "imgen1":""
+    },
+    {
+        "nombre": "GUAYABA PERA KG",
+        "codigo": "120A",
+        "imgen1":"img/guayaba_pera.png"
+    },
+    {
+        "nombre": "GUINEO KG",
+        "codigo": "121A",
+        "imgen1":""
+    },
+    {
+        "nombre": "HABICHUELA KG",
+        "codigo": "124A",
+        "imgen1":"img/habichuela.jpg"
+    },
+    {
+        "nombre": "HARTON AMARILLO KG",
+        "codigo": "229A",
+        "imgen1":"img/platano-maduro.jpg"
+    },
+    {
+        "nombre": "HARTON VERDE KG",
+        "codigo": "230A",
+        "imgen1":"img/Platano-verde.jpg"
+    },
+    {
+        "nombre": "HIERBAS GRAN AROMA",
+        "codigo": "701A",
+        "imgen1":""
+    },
+    {
+        "nombre": "JENGIBRE KG",
+        "codigo": "109A",
+        "imgen1":"img/JENJIBRE.jpg"
+    },
+    {
+        "nombre": "JUGO DE MANDARINA* 500ML",
+        "codigo": "712A",
+        "imgen1":""
+    },
+    {
+        "nombre": "JUGO DE NARANJA* 500ML",
+        "codigo": "703A",
+        "imgen1":""
+    },
+    {
+        "nombre": "KIWI KG",
+        "codigo": "131A",
+        "imgen1":"img/kiwi.jpeg"
+    },
+    {
+        "nombre": "LECHUGA BATAVIA KG",
+        "codigo": "41A",
+        "imgen1":""
+    },
+    {
+        "nombre": "LECHUGA CRESPA",
+        "codigo": "313A",
+        "imgen1":"img/lechuga-crespa.png"
+    },
+    {
+        "nombre": "LIMON COMUN KG",
+        "codigo": "138A",
+        "imgen1":"img/limon-comun.jpg"
+    },
+    {
+        "nombre": "LIMON TAHITI KG",
+        "codigo": "141A",
+        "imgen1":"img/limon-tahiti.jpg"
+    },
+    {
+        "nombre": "LULO CONGELADO",
+        "codigo": "1038A",
+        "imgen1":""
+    },
+    {
+        "nombre": "LULO KG",
+        "codigo": "143A",
+        "imgen1":"img/lulo.png"
+    },
+    {
+        "nombre": "MANDARINA KG",
+        "codigo": "147A",
+        "imgen1":"img/mandarina.jpg"
+    },
+    {
+        "nombre": "MANGO AZUCAR KG",
+        "codigo": "153A",
+        "imgen1":"img/mango-azucar1.jpg"
+    },
+    {
+        "nombre": "MANGO CHUPA KG",
+        "codigo": "150A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MANGO CONGELADO KG",
+        "codigo": "1039A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MANGO TOMY KG",
+        "codigo": "152A",
+        "imgen1":"img/mango-tomy.jpg"
+    },
+    {
+        "nombre": "MANZANA DE AGUA BANDEJA",
+        "codigo": "672A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MANZANA ROJA KG",
+        "codigo": "162A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MANZANA ROSADA KG",
+        "codigo": "164A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MANZANA SURTIDA PROM",
+        "codigo": "165A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MANZANA VERDE KG",
+        "codigo": "167A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MARACUYA CONGELADA",
+        "codigo": "1041A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MARACUYA KG",
+        "codigo": "169A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MASA PAR AREPA UND",
+        "codigo": "709A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MAZORCA COMUN KG",
+        "codigo": "172A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MELON CRIOLLO KG",
+        "codigo": "175A",
+        "imgen1":""
+    },
+    {
+        "nombre": "MORA KG",
+        "codigo": "176A",
+        "imgen1":"img/mora1.jpg"
+    },
+    {
+        "nombre": "NARANJA COMUN KG",
+        "codigo": "179A",
+        "imgen1":""
+    },
+    {
+        "nombre": "NARANJA TANGELO KG",
+        "codigo": "182A",
+        "imgen1":""
+    },
+    {
+        "nombre": "OFERTA 2000",
+        "codigo": "45A",
+        "imgen1":""
+    },
+    {
+        "nombre": "OFERTA DE 3000",
+        "codigo": "302A",
+        "imgen1":""
+    },
+    {
+        "nombre": "OFERTA DE 4000",
+        "codigo": "303A",
+        "imgen1":""
+    },
+    {
+        "nombre": "OFERTA DE 5000",
+        "codigo": "304A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PAPA CRIOLLA KG",
+        "codigo": "188A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PAPA LAVADA KG",
+        "codigo": "483A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PAPA SIN LAVAR KG",
+        "codigo": "192A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PAPAYA CONGELADA",
+        "codigo": "416A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PAPAYA KG",
+        "codigo": "197A",
+        "imgen1":"img/papaya.jpg"
+    },
+    {
+        "nombre": "PATILLA BABY KG",
+        "codigo": "135A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PATILLA KG",
+        "codigo": "203A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PENCA SABILA UND",
+        "codigo": "602A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PEPINO COHOMBRO UND",
+        "codigo": "205A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PEPINO RELLENO KG",
+        "codigo": "206A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PERA COMUN KG",
+        "codigo": "214A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PERA IMPORTADA KG",
+        "codigo": "218A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PEREJIL LISO KG",
+        "codigo": "221A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PIMENTON AMARILLO KG",
+        "codigo": "467A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PIMENTON KG",
+        "codigo": "222A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PIÑA CONGELADA",
+        "codigo": "293A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PIÑA GOLDEN KG",
+        "codigo": "318A",
+        "imgen1":"img/pina_golden.jpg"
+    },
+    {
+        "nombre": "PIÑA PELADA KG",
+        "codigo": "225A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PITAHAYA KG",
+        "codigo": "228A",
+        "imgen1":""
+    },
+    {
+        "nombre": "PULPA TAMARINDO UND",
+        "codigo": "277A",
+        "imgen1":""
+    },
+    {
+        "nombre": "RABANO ROJO KG",
+        "codigo": "237A",
+        "imgen1":""
+    },
+    {
+        "nombre": "RAIZ CHINA UND",
+        "codigo": "679A",
+        "imgen1":"img/raiz_china.jpg"
+    },
+    {
+        "nombre": "REMOLACHA KG",
+        "codigo": "242A",
+        "imgen1":"img/remolacha.jpg"
+    },
+    {
+        "nombre": "REPOLLO BLANCO KG",
+        "codigo": "244A",
+        "imgen1":"img/repollo_blanco.jpg"
+    },
+    {
+        "nombre": "REPOLLO MORADO KG",
+        "codigo": "246A",
+        "imgen1":""
+    },
+    {
+        "nombre": "SHOSUE",
+        "codigo": "685A",
+        "imgen1":""
+    },
+    {
+        "nombre": "TAMARINDO PASTA UND",
+        "codigo": "249A",
+        "imgen1":""
+    },
+    {
+        "nombre": "TOMATE DE ARBOL KG",
+        "codigo": "251A",
+        "imgen1":""
+    }
+    ,
+    {
+        "nombre": "TOMATE CHERRY ECONOMICO",
+        "codigo": "676A",
+        "imgen1":"img/tomate-cherry.jpg"
+    },
+    {
+        "nombre": "TOMATE DE ARBOL CONGELADO",
+        "codigo": "236A",
+        "imgen1":""
+    },
+    {
+        "nombre": "TOMATE MILAN KG",
+        "codigo": "252A",
+        "imgen1":""
+    },
+    {
+        "nombre": "TOMATE RIO GDE KG",
+        "codigo": "253A",
+        "imgen1":""
+    },
+    {
+        "nombre": "UCHUVAS BANDEJA",
+        "codigo": "148A",
+        "imgen1":"img/uchuvas.jpg"
+    },
+    {
+        "nombre": "UVA ESTUCHE COMBI",
+        "codigo": "263A",
+        "imgen1":""
+    },
+    {
+        "nombre": "UVA ESTUCHE COMUN UND",
+        "codigo": "262A",
+        "imgen1":""
+    },
+    {
+        "nombre": "UVA IMPORTADA KG",
+        "codigo": "260A",
+        "imgen1":""
+    },
+    {
+        "nombre": "UVA RED GLOBE KG",
+        "codigo": "264A",
+        "imgen1":""
+    },
+    {
+        "nombre": "UVA VERDE KG",
+        "codigo": "267A",
+        "imgen1":""
+    },
+    {
+        "nombre": "VERDURA PICADA BANDEJA",
+        "codigo": "268A",
+        "imgen1":""
+    },
+    {
+        "nombre": "YACON KG",
+        "codigo": "851A",
+        "imgen1":""
+    },
+    {
+        "nombre": "YOTA KG",
+        "codigo": "271A",
+        "imgen1":""
+    },
+    {
+        "nombre": "YUCA KG",
+        "codigo": "272A",
+        "imgen1":"img/yuca.jpg"
+    },
+    {
+        "nombre": "ZANAHORIA KG",
+        "codigo": "273A",
+        "imgen1":"img/zanahoria.jpg"
+    },
+    {
+        "nombre": "ZAPOTE CRIOLLO KG",
+        "codigo": "276A",
+        "imgen1":""
+    },
+    {
+        "nombre": "ZUMO DE LIMON *500ML",
+        "codigo": "707A",
+        "imgen1":""
+    },
+    {
+        "nombre": "ZUMO DE UVA *500ML",
+        "codigo": "705A",
+        "imgen1":""
+    },
+    {
+        "nombre": "ZUMO DE UVA CON NONI *500ML",
+        "codigo": "688A",
+        "imgen1":""
+    }
+    ]
